@@ -1,0 +1,6 @@
+{
+  "name": "Maverick Ghouse | Refund & Settlement Desk",
+  "description": "Institutional refund registration, phased settlement calculations, and statutory documentation portal for candidate restitution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
